@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+def debugsuffix = System.getProperty('debugsuffix', project.getProperties().get('debugsuffix', null))
+def final baseApplicationId = 'co.velloso.journi'
+def final baseVersionName = "1.0"
+def final baseVersionCode = 1
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId baseApplicationId
+        minSdkVersion 22
+        targetSdkVersion 25
+        versionCode baseVersionCode
+        versionName baseVersionName
+
+        buildConfigField "String", "ACCOUNT_TYPE", "\"${applicationId}.account\""
+        buildConfigField "String", "AUTHORITY", "\"${applicationId}.provider\""
+        resValue "string", "account_type", "${applicationId}.account"
+        resValue "string", "authority", "${applicationId}.provider"
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix ".debug"
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}

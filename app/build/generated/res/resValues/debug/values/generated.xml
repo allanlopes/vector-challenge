@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="account_type" translatable="false">co.velloso.journi.account</string>
+    <string name="authority" translatable="false">co.velloso.journi.provider</string>
+
+</resources>

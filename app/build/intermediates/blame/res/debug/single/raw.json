@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\merged\\debug\\raw\\countries_mock.json",
+        "source": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\src\\main\\res\\raw\\countries_mock.json"
+    },
+    {
+        "merged": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\merged\\debug\\raw\\countries_small.json",
+        "source": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\src\\main\\res\\raw\\countries_small.json"
+    }
+]

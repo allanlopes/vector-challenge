@@ -1,0 +1,7 @@
+#Wed Mar 15 13:40:16 ICT 2017
+base.0=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f27430d0e2b7ed902cf85d1d93354d84877010d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db11a3d63f0456503dfb5b9b498b00ce95ffa1b7\\classes.dex
+base.1=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db11a3d63f0456503dfb5b9b498b00ce95ffa1b7
+file.0=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f27430d0e2b7ed902cf85d1d93354d84877010d\\classes.dex

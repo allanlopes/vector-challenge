@@ -1,0 +1,57 @@
+{
+	"bbox":[-20037507.161367,-20037508.342789,20037508.342789,18394375.282232],
+	"type":"FeatureCollection",
+	"features":[
+		{
+			"type":"Feature",
+			"properties":{"scalerank":3,"labelrank":3,"featurecla":"Admin-0 countries","sovereignt":"Netherlands","sov_a3":"NL1","adm0_dif":1,"level":2,"type":"Country","admin":"Aruba","adm0_a3":"ABW","geou_dif":0,"geounit":"Aruba","gu_a3":"ABW","su_dif":0,"subunit":"Aruba","su_a3":"ABW","name":"Aruba","abbrev":"Aruba","postal":"AW","name_forma":"","terr_":"Neth.","name_sort":"Aruba","map_color":9,"pop_est":103065,"gdp_md_est":2258,"fips_10_":0,"iso_a2":"AW","iso_a3":"ABW","iso_n3":533,"flag_png":"iVBORw0KGgoAAAANSUhEUgAAAGQAAABDEAIAAAC1uevOAAAACXBIWXMAAABIAAAASABGyWs+AAAABmJLR0T///////8JWPfcAAAEi0lEQVR42u2dW0gVQRjHpxtFJF2oh4oICYrUx0MZBUY3KKKEUCNIRDJ9iKIyFCJEKLQiulBERUkZYZic7DyoFCWFJ1IxpSJfIrDsopHiBUIIgv49TCx7mD27e3bPzv/l/7Dumd355jff9823O6vYXVJ55nE91UxzTlSMP82mHayq4DDoAG7ix0XQ6Oydnfs0+6srYBXsrZ75rIKQMRQ6PPzXlz4cfbutbMb18va5BIJgOYAUfNXbKW9S+2bfnN4w0J3mLVhBzWC081jwUsPHbzXcqe5cFi5ujeSnVJ9s7aShCZYtvX+hse31pbGr+Z0FMwfOny+5sgSoMXH22/27bQHhbMLeW/RgdcuskUhm1ZqXwOv2p/CT7lUEiB7LVhCElxr6nhbKCAEvNwKibrjEt+APCFgIguMidyhvEGBB3Q6I9En+9PfCziWhRVvP7XuxUg6CMlgIiHWNTanvculF9IHMMlgIavBAyJ+6CsM5z1pGJh3afvgFYBr+kL4z47ccEOG3olsi06KlVx81TO1JO7Dk0kS0iF5B6xwLGKEuhZwJoMAbyV4KSMn6n/cKbdy1KWv01dE5xyZ/ra1Ze6+kKdyc17PciBoDXGDBwmBHd3Yf+ZyNupSMkREaWc3AMp4jo/blYPPH1t4nvzrq+/q9KlK4AbTfJkli7scUrJPptYu6FiI3Qv70s//UntO5SM+NuZQ6WDJSYwX7JxWXfSu8/OPGWXgvPA7SuawajBqbUihEeg7UsPozombEyJhpyRjJ+ZY/i6hUD1aFKIcCNSACyIz+afRN1rz1cwEisrQgYcRc0JU6lvzgGUk9MPovYf/rpRDgOPB+7q+zthJOdQbeCBjJoRCBL9m9lJ8BDWzlHR0DOsBIDoIIlBwG3bypsN9VOSACI6TqKJkiPWfOoRtwDr/oB4yAVDCCINXjUCgHxIHBxsVNK/wWBPUMT171yJXNFKjXe7USDBJqyQu6K5spUN/iY2bd3r6Xry445FTtNqwyQ0peOwuWCjltEuqxOPupDIX0bb6zG5N3fvAj2wOPxZlNiAMbCvnYWIsci8YNxlRMmi32evoDHaZZfH3kqpAIutI7QYB4h0kcCpmZMXknTFT9Ku/qsFrFGltk5ZcWVT77oX6+bpNNBDXzUB/s+ECJDyxNH+lYNY0bBnVqwFTakY/Yua5TdvBbO7HtGfszCMLMoFTdNPYEs3q+uFhaU1cZonql19rvppR3JNc9qJwvJtreb1iwGdpb27Yuc4d8hKqPqo++ypmCBqW6ocIPM4AaPFsJxEuqmcpZBVXdPsJqYVBlSa9eB3KqHaslSvVrJWYtlkj72OmvevvC2AG3C2j75ldFws/tV1acasd4z3LLKvUbHDfeT3z2dKodpyypAq7snv7VsdCon1XuPDVZRkcgbaRSnVWWG6jJVm6gag0WnTbVlVBoloKZrRdip2+x24l9vtlVYp9v9cxE3o/b9lH/rfoRq781Td75rqPOG0lUalTcYs8NEdz+ReWryVQqwaISLGqgsz2CRSVYXOUF/v8VUjkltAOL33X2g/4B5wJm5mz7tscAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTEtMDktMDJUMjM6Mjk6MjEtMDQ6MDBxBsFaAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDExLTAyLTI4VDE5OjEzOjUyLTA1OjAwwUwJ9QAAAFJ0RVh0c3ZnOmJhc2UtdXJpAGZpbGU6Ly8vaG9tZS9hai9Db2RlL3RtLW1hc3Rlci9leGFtcGxlcy9nZW9ncmFwaHktY2xhc3MvZmxhZ3MvQUJXLnN2Z44JxCkAAAAASUVORK5CYII="},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[	
+						[0.0, 0.6],
+						[-0.5, 0.3],
+						[-0.5, -0.3],
+						[0.0, -0.6],
+						[0.5, -0.3],
+						[0.5, 0.3]
+					]
+				]
+			}
+		},
+		{
+			"type":"Feature",
+			"properties":{"scalerank":3,"labelrank":3,"featurecla":"Admin-0 countries","sovereignt":"United States of America","sov_a3":"US1","adm0_dif":1,"level":2,"type":"Dependency","admin":"American Samoa","adm0_a3":"ASM","geou_dif":0,"geounit":"American Samoa","gu_a3":"ASM","su_dif":0,"subunit":"American Samoa","su_a3":"ASM","name":"American Samoa","abbrev":"Am. Samoa","postal":"AS","name_forma":"Territory of American Samoa","terr_":"U.S.A.","name_sort":"American Samoa","map_color":1,"pop_est":65628,"gdp_md_est":575.3,"fips_10_":0,"iso_a2":"AS","iso_a3":"ASM","iso_n3":16,"flag_png":"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"},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[1.0, 1.6],
+						[0.5, 1.3],
+						[0.5, 0.7],
+						[1.0, 0.4],
+						[1.5, 0.7],
+						[1.5, 1.3]
+					]
+				]
+			}
+		},
+		{
+			"type":"Feature",
+			"properties":{"scalerank":3,"labelrank":3,"featurecla":"Admin-0 countries","sovereignt":"Netherlands","sov_a3":"NL1","adm0_dif":1,"level":2,"type":"Country","admin":"Aruba","adm0_a3":"ABW","geou_dif":0,"geounit":"Aruba","gu_a3":"ABW","su_dif":0,"subunit":"Aruba","su_a3":"ABW","name":"Aruba","abbrev":"Aruba","postal":"AW","name_forma":"","terr_":"Neth.","name_sort":"Aruba","map_color":9,"pop_est":103065,"gdp_md_est":2258,"fips_10_":0,"iso_a2":"AW","iso_a3":"ABW","iso_n3":533,"flag_png":"iVBORw0KGgoAAAANSUhEUgAAAGQAAABDEAIAAAC1uevOAAAACXBIWXMAAABIAAAASABGyWs+AAAABmJLR0T///////8JWPfcAAAEi0lEQVR42u2dW0gVQRjHpxtFJF2oh4oICYrUx0MZBUY3KKKEUCNIRDJ9iKIyFCJEKLQiulBERUkZYZic7DyoFCWFJ1IxpSJfIrDsopHiBUIIgv49TCx7mD27e3bPzv/l/7Dumd355jff9823O6vYXVJ55nE91UxzTlSMP82mHayq4DDoAG7ix0XQ6Oydnfs0+6srYBXsrZ75rIKQMRQ6PPzXlz4cfbutbMb18va5BIJgOYAUfNXbKW9S+2bfnN4w0J3mLVhBzWC081jwUsPHbzXcqe5cFi5ujeSnVJ9s7aShCZYtvX+hse31pbGr+Z0FMwfOny+5sgSoMXH22/27bQHhbMLeW/RgdcuskUhm1ZqXwOv2p/CT7lUEiB7LVhCElxr6nhbKCAEvNwKibrjEt+APCFgIguMidyhvEGBB3Q6I9En+9PfCziWhRVvP7XuxUg6CMlgIiHWNTanvculF9IHMMlgIavBAyJ+6CsM5z1pGJh3afvgFYBr+kL4z47ccEOG3olsi06KlVx81TO1JO7Dk0kS0iF5B6xwLGKEuhZwJoMAbyV4KSMn6n/cKbdy1KWv01dE5xyZ/ra1Ze6+kKdyc17PciBoDXGDBwmBHd3Yf+ZyNupSMkREaWc3AMp4jo/blYPPH1t4nvzrq+/q9KlK4AbTfJkli7scUrJPptYu6FiI3Qv70s//UntO5SM+NuZQ6WDJSYwX7JxWXfSu8/OPGWXgvPA7SuawajBqbUihEeg7UsPozombEyJhpyRjJ+ZY/i6hUD1aFKIcCNSACyIz+afRN1rz1cwEisrQgYcRc0JU6lvzgGUk9MPovYf/rpRDgOPB+7q+zthJOdQbeCBjJoRCBL9m9lJ8BDWzlHR0DOsBIDoIIlBwG3bypsN9VOSACI6TqKJkiPWfOoRtwDr/oB4yAVDCCINXjUCgHxIHBxsVNK/wWBPUMT171yJXNFKjXe7USDBJqyQu6K5spUN/iY2bd3r6Xry445FTtNqwyQ0peOwuWCjltEuqxOPupDIX0bb6zG5N3fvAj2wOPxZlNiAMbCvnYWIsci8YNxlRMmi32evoDHaZZfH3kqpAIutI7QYB4h0kcCpmZMXknTFT9Ku/qsFrFGltk5ZcWVT77oX6+bpNNBDXzUB/s+ECJDyxNH+lYNY0bBnVqwFTakY/Yua5TdvBbO7HtGfszCMLMoFTdNPYEs3q+uFhaU1cZonql19rvppR3JNc9qJwvJtreb1iwGdpb27Yuc4d8hKqPqo++ypmCBqW6ocIPM4AaPFsJxEuqmcpZBVXdPsJqYVBlSa9eB3KqHaslSvVrJWYtlkj72OmvevvC2AG3C2j75ldFws/tV1acasd4z3LLKvUbHDfeT3z2dKodpyypAq7snv7VsdCon1XuPDVZRkcgbaRSnVWWG6jJVm6gag0WnTbVlVBoloKZrRdip2+x24l9vtlVYp9v9cxE3o/b9lH/rfoRq781Td75rqPOG0lUalTcYs8NEdz+ReWryVQqwaISLGqgsz2CRSVYXOUF/v8VUjkltAOL33X2g/4B5wJm5mz7tscAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTEtMDktMDJUMjM6Mjk6MjEtMDQ6MDBxBsFaAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDExLTAyLTI4VDE5OjEzOjUyLTA1OjAwwUwJ9QAAAFJ0RVh0c3ZnOmJhc2UtdXJpAGZpbGU6Ly8vaG9tZS9hai9Db2RlL3RtLW1hc3Rlci9leGFtcGxlcy9nZW9ncmFwaHktY2xhc3MvZmxhZ3MvQUJXLnN2Z44JxCkAAAAASUVORK5CYII="},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[	
+						[-1.0, -0.4],
+						[-1.5, -0.7],
+						[-1.5, -1.3],
+						[-1.0, -1.6],
+						[-0.5, -1.3],
+						[-0.5, -0.7]
+					]
+				]
+			}
+		}
+	]
+}

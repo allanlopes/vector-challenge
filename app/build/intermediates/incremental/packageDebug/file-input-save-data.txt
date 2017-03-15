@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Mar 15 13:40:16 ICT 2017
+2.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\countries_mock.json
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db11a3d63f0456503dfb5b9b498b00ce95ffa1b7\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f27430d0e2b7ed902cf85d1d93354d84877010d\\classes.dex
+7.set=DEX
+count=8
+0.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db11a3d63f0456503dfb5b9b498b00ce95ffa1b7
+1.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f27430d0e2b7ed902cf85d1d93354d84877010d
+2.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main_activity.xml
+6.set=DEX
+0.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\countries_small.json
+0.set=ANDROID_RESOURCE

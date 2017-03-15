@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "C:\\Users\\Allan\\Dev\\Android\\Journi\\VectorChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\Allan\\Dev\\Android\\Journi\\VectorChallenge\\app\\build\\generated\\res\\resValues\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 87,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 53,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\Allan\\Dev\\Android\\Journi\\VectorChallenge\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 53,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 85,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\Allan\\Dev\\Android\\Journi\\VectorChallenge\\app\\build\\generated\\res\\resValues\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 85,
+                        "endOffset": 330
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\generated\\res\\resValues\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 87,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 53,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 53,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 85,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\Allan\\Dev\\Android\\Journi\\vector-challenge\\app\\build\\generated\\res\\resValues\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 85,
+                        "endOffset": 330
+                    }
+                }
+            }
+        ]
+    }
+]
